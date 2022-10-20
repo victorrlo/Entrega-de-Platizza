@@ -1,5 +1,9 @@
 # Entrega-de-Platizza
 
+### Para jogar
+🔗https://fllpo.github.io/cg-2022.1/index.html
+
+## Descrição 
 Jogo de Plataforma desenvolvido como projeto final da disciplina de Computação Gráfica no curso de Ciência da Computação na UFRRJ.
 
 Foi meu primeiro jogo desenvolvido do início ao fim dentro de uma equipe e foi mais legal do que eu imaginava de trabalhar dessa forma. Foi divertido mesmo.
